@@ -18,7 +18,7 @@ export interface DataProps {
   type: string;
   title: string;
   description: string;
-  price: st.ing;
+  price: string;
   tags: string[];
   image: string;
   quantityOfItems: number;
